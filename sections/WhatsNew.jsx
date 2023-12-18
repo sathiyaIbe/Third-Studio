@@ -29,6 +29,11 @@ const WhatsNew = () => (
 </div>
       </div>
     </div>
+    <div className="flex justify-center mt-6">
+    <div className="view_more_contianer">
+      <button className="view_more_btn" type='button'>Work with us</button>
+    </div>
+    </div>
   </section>
 );
 
